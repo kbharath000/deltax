@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="DeltaxSuite" duration-ms="35306" started-at="2018-07-15T13:31:49Z" finished-at="2018-07-15T13:32:25Z">
+    <groups>
+    </groups>
+    <test name="RegressionForm" duration-ms="35306" started-at="2018-07-15T13:31:49Z" finished-at="2018-07-15T13:32:25Z">
+      <class name="com.deltax.testcases.RegistrationFormTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.deltax.testcases.RegistrationFormTest@5d908d47]" name="launch" is-config="true" duration-ms="3182" started-at="2018-07-15T13:31:50Z" finished-at="2018-07-15T13:31:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="testEmailAndMobileValidation()[pri:0, instance:com.deltax.testcases.RegistrationFormTest@5d908d47]" name="testEmailAndMobileValidation" duration-ms="8970" started-at="2018-07-15T13:31:53Z" finished-at="2018-07-15T13:32:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmailAndMobileValidation -->
+        <test-method status="PASS" signature="testMandatoryFields()[pri:0, instance:com.deltax.testcases.RegistrationFormTest@5d908d47]" name="testMandatoryFields" duration-ms="5737" started-at="2018-07-15T13:32:02Z" finished-at="2018-07-15T13:32:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMandatoryFields -->
+        <test-method status="PASS" signature="testNameValidationAtleastTwo()[pri:0, instance:com.deltax.testcases.RegistrationFormTest@5d908d47]" name="testNameValidationAtleastTwo" duration-ms="3256" started-at="2018-07-15T13:32:07Z" finished-at="2018-07-15T13:32:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNameValidationAtleastTwo -->
+        <test-method status="PASS" signature="testNegativeScenarios()[pri:0, instance:com.deltax.testcases.RegistrationFormTest@5d908d47]" name="testNegativeScenarios" duration-ms="4752" started-at="2018-07-15T13:32:11Z" finished-at="2018-07-15T13:32:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNegativeScenarios -->
+        <test-method status="PASS" signature="testPositiveScenarios()[pri:0, instance:com.deltax.testcases.RegistrationFormTest@5d908d47]" name="testPositiveScenarios" duration-ms="8034" started-at="2018-07-15T13:32:15Z" finished-at="2018-07-15T13:32:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPositiveScenarios -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.deltax.testcases.RegistrationFormTest@5d908d47]" name="tearDown" is-config="true" duration-ms="1270" started-at="2018-07-15T13:32:23Z" finished-at="2018-07-15T13:32:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.deltax.testcases.RegistrationFormTest -->
+    </test> <!-- RegressionForm -->
+  </suite> <!-- DeltaxSuite -->
+</testng-results>
